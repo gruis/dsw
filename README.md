@@ -18,7 +18,7 @@ applies them to the primary and secondary desktops.
 ### Folder structure
 Create a folder in your `Pictures` directory and fill it with images.
 Pairs of images should have the same name except for one should contain
-a "_P_" and the other should contain a "_S_"
+a "\_P\_" and the other should contain a "\_S\_"
 
 
 ### Script file
