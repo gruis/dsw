@@ -16,9 +16,10 @@ applies them to the primary and secondary desktops.
 ## How to use it
 
 ### Folder structure
-Create a folder in your `Pictures` directory and fill it with images.
-Pairs of images should have the same name except for one should contain
-a "\_P\_" and the other should contain a "\_S\_"
+
+Create ``~/Pictures/Wallpapers/dual screen`` directory and fill it with
+images.  Pairs of images should have the same name except for one should
+contain a "\_P\_" and the other should contain a "\_S\_"
 
 
 ### Script file
